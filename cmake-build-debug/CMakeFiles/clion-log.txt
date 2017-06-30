@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.1.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" G:\LeoCode\Researchers\Database\LoeDB_project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/LeoCode/Researchers/Database/LoeDB_project/cmake-build-debug
