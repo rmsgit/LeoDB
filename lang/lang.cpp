@@ -57,6 +57,7 @@ private:
 
 
         //strcpy(gpName, graphName.GetString());
+		//ruwan madusankA
 
 
     }
