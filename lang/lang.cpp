@@ -57,7 +57,7 @@ private:
 
 
         //strcpy(gpName, graphName.GetString());
-		//ruwan madusankA
+		//ruwan DDDDD 22
 
 
     }
